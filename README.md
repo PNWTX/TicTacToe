@@ -1,2 +1,2 @@
 # tictactoe
-This was written for fun!
+This was one of my first Python mini-projects written for fun.
